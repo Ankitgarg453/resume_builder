@@ -1,2 +1,2 @@
-# resume_builder
-A website to build your resume.
+# Resume Builder
+A website to build your **resume**.
